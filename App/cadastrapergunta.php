@@ -14,8 +14,8 @@
 	 $(document).ready(function() {
         $("#btn_cadastrar").click(function(){
         	
-        	if($("#txtPergunta").val().length < 30) {
-        		alert("A pergunta deve ter pelo menos 30 caracteres");
+        	if($("#txtPergunta").val().length < 10) {
+        		alert("A pergunta deve ter pelo menos 10 caracteres");
             	return false;
         	}
         	if($("#selcategoria").val() == null) {
