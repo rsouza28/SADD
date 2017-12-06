@@ -79,6 +79,9 @@ $(document).ready(function() {
 				return false;
 			}
 			else {
+				$('input:radio').attr('checked', false);
+				
+				
 				return true;	
 			}
     });

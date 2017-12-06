@@ -33,7 +33,7 @@
 					  <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
 					  <span class="sr-only">Error:</span>Para cadastrar um novo administrador clique <a href="cadastraadmin.php">aqui.</a>
 		</div>
-		<div class="col-md-6 col-md-offset-3">
+		<div class="col-md-8 col-md-offset-2">
 
 		
 			<div class="table-responsive">	
